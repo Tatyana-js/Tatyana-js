@@ -7,7 +7,7 @@ _I want to become a Frontend Developer._ 💻
 
 🔧 _I have implemented several projects in which I use cli, commander.js, JavaScript, lodash, Github Actions, Jest, npm, CodeClimate, Markdown, Makefile_ 
 
- 💞️ _I am looking for cooperation in a developing IT company with the opportunity to improve my skills, as well as acquire new knowledge and skills_
+ 💞️ _I am looking for cooperation in a developing IT company with the opportunity to apply my skills and benefit the company, as well as improve my qualifications and acquire new knowledge and skills_
 
  📫 _you can contact me_ 
 - +7 911 911 24 14
