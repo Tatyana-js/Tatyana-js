@@ -1,7 +1,7 @@
 
    👋 **Hi, I’m Tatyana.**
   
- 👩‍💻 _I have been interested in programming for about 3 years and  have been studying a lot of JavaScript for about a year at the Hexlet IT school._ 
+ 👩‍💻 _I have been interested in programming some years and  have been studying a lot of JavaScript for about a year at the Hexlet IT school._ 
     
 _I want to become a Frontend Developer._ 💻
 
