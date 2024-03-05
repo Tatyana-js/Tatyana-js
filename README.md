@@ -1,7 +1,7 @@
 
    ## 👋Hi, I’m Tatyana
 	
-![Actions Status](https://www.codewars.com/users/Tatyana-js/badges/large)
+![Actions Status](https://www.codewars.com/users/Tatyana-js/badges/micro)
 
    #### _I have been interested in programming some years and  have been studying a lot of JavaScript for about a year at the Hexlet IT school._ 
     
