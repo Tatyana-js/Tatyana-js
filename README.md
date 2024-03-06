@@ -15,7 +15,6 @@
 
 
    📫 _you can contact me_ 
-   - +7 911 911 24 14
    - <tan-andreeva@mail.ru>
    - @tatyana_a14
      
