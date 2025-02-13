@@ -13,12 +13,15 @@
 
    📝 _My CV: <https://cv.hexlet.io/ru/resumes/3588>_
 
-
    📫 _you can contact me_ 
    - <tan-andreeva@mail.ru>
    - @tatyana_a14
      
+   ***My stack technologies***
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
+
+   
    ***My stats:***
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatyana-js&show_icons=true&theme=radical)
